@@ -1,0 +1,6 @@
+neo4j
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-neo4j
